@@ -1,0 +1,69 @@
+{
+  "hero_title": "Freight Transportation Across Europe",
+  "hero_subtitle": "Reliability, speed, and full control at every stage",
+  "hero_cta": "Submit a Request",
+
+  "nav_services": "Services",
+  "nav_geography": "Geography",
+  "nav_why": "Why Us?",
+  "nav_contacts": "Contacts",
+
+  "services_title": "Our Services",
+
+  "service1_title": "Full Container Load (FCL)",
+  "service1_desc": "Delivery of full container loads to a single consignee by sea, rail, or road transport.",
+
+  "service2_title": "Less than Container Load (LCL)",
+  "service2_desc": "Delivery of consolidated cargo to multiple consignees in one container or transport vehicle.",
+
+  "service3_title": "Air Freight",
+  "service3_desc": "Air cargo delivery services from and to any point in the world.",
+
+  "service4_title": "Road Freight",
+  "service4_desc": "Transportation of goods within Europe and beyond.",
+
+
+  "geo_title": "Geography of Transportation",
+  "geo_desc": "We deliver cargo to key regions around the world:",
+
+  "geo_china": "China",
+  "geo_india": "India",
+  "geo_vietnam": "Vietnam",
+  "geo_indonesia": "Indonesia",
+  "geo_malaysia": "Malaysia",
+  "geo_turkey": "Turkey",
+  "geo_uae": "UAE",
+  "geo_japan": "Japan",
+  "geo_korea": "South Korea",
+  "geo_usa": "USA",
+  "geo_europe": "Europe",
+
+
+  "why_title": "Why Choose Us?",
+
+  "why1_title": "Efficiency and Reliability",
+  "why1_desc": "We ensure fast and secure cargo delivery using optimal logistics solutions.",
+
+  "why2_title": "Individual Approach",
+  "why2_desc": "We offer flexible conditions and various delivery options tailored to each client's needs.",
+
+  "why3_title": "Global Coverage",
+  "why3_desc": "We have an extensive network of partners and agents allowing us to provide logistics services worldwide.",
+
+
+  "form_title": "Calculate Shipping Cost",
+  "form_text": "You can request the transportation cost by filling out the form below. Our managers will process your request within one business day and prepare the best commercial offer.",
+
+  "form_cargo": "Cargo Information",
+  "form_from": "Origin Point A",
+  "form_to": "Destination Point B",
+  "form_cargo_details": "Weight and cargo dimensions",
+
+  "form_contacts": "Contact Information",
+  "form_name": "Your Name",
+  "form_phone": "Phone Number",
+  "form_email": "Email",
+  "form_submit": "Submit Request",
+
+  "form_privacy": "By clicking the “Submit Request” button, you agree to the processing of your personal data according to our privacy policy."
+}

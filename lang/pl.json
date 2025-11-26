@@ -1,0 +1,69 @@
+{
+  "hero_title": "Transport Towarów w Całej Europie",
+  "hero_subtitle": "Niezawodność, szybkość i pełna kontrola na każdym etapie",
+  "hero_cta": "Złóż Zgłoszenie",
+
+  "nav_services": "Usługi",
+  "nav_geography": "Geografia",
+  "nav_why": "Dlaczego My?",
+  "nav_contacts": "Kontakt",
+
+  "services_title": "Nasze Usługi",
+
+  "service1_title": "Transport Pełnokontenerowy (FCL)",
+  "service1_desc": "Dostawa pełnych ładunków kontenerowych do jednego odbiorcy drogą morską, kolejową lub lądową.",
+
+  "service2_title": "Transport Ładunków Częściowych (LCL)",
+  "service2_desc": "Usługa dostawy ładunków zbiorczych do kilku odbiorców w jednym kontenerze lub pojeździe transportowym.",
+
+  "service3_title": "Transport Lotniczy",
+  "service3_desc": "Usługa transportu lotniczego towarów z i do dowolnego miejsca na świecie.",
+
+  "service4_title": "Transport Drogowy",
+  "service4_desc": "Transport towarów na terenie Europy i poza jej granicami.",
+
+
+  "geo_title": "Geografia Transportu",
+  "geo_desc": "Organizujemy dostawy towarów do kluczowych regionów świata:",
+
+  "geo_china": "Chiny",
+  "geo_india": "Indie",
+  "geo_vietnam": "Wietnam",
+  "geo_indonesia": "Indonezja",
+  "geo_malaysia": "Malezja",
+  "geo_turkey": "Turcja",
+  "geo_uae": "ZEA",
+  "geo_japan": "Japonia",
+  "geo_korea": "Korea Południowa",
+  "geo_usa": "USA",
+  "geo_europe": "Europa",
+
+
+  "why_title": "Dlaczego My?",
+
+  "why1_title": "Efektywność i Niezawodność",
+  "why1_desc": "Gwarantujemy szybką i bezpieczną dostawę towarów, stosując optymalne rozwiązania logistyczne.",
+
+  "why2_title": "Indywidualne Podejście",
+  "why2_desc": "Oferujemy elastyczne warunki i różnorodne opcje dostawy dopasowane do potrzeb każdego klienta.",
+
+  "why3_title": "Globalny Zasięg",
+  "why3_desc": "Dysponujemy szeroką siecią partnerów i agentów, co umożliwia świadczenie usług logistycznych na całym świecie.",
+
+
+  "form_title": "Oblicz Koszt Transportu",
+  "form_text": "Możesz poznać koszt transportu, wypełniając formularz. Nasi specjaliści przetworzą zgłoszenie w ciągu jednego dnia roboczego i przygotują najlepszą ofertę.",
+
+  "form_cargo": "Informacje o Ładunku",
+  "form_from": "Punkt A (skąd)",
+  "form_to": "Punkt B (dokąd)",
+  "form_cargo_details": "Waga i wymiary ładunku",
+
+  "form_contacts": "Dane Kontaktowe",
+  "form_name": "Twoje Imię",
+  "form_phone": "Telefon",
+  "form_email": "Email",
+  "form_submit": "Wyślij Zgłoszenie",
+
+  "form_privacy": "Klikając „Wyślij Zgłoszenie”, wyrażasz zgodę na przetwarzanie danych osobowych zgodnie z polityką prywatności."
+}
