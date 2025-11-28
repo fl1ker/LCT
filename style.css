@@ -428,4 +428,120 @@ small {
     color: #1B2A49;
 }
 
+/* ================= MOBILE ADAPTIVE ================= */
+@media (max-width: 768px) {
+
+    /* ==== HERO ==== */
+    #hero {
+        padding: 80px 20px;
+    }
+
+    #hero h1 {
+        font-size: 26px;
+        line-height: 1.2;
+    }
+
+    #hero p {
+        font-size: 16px;
+    }
+
+    #hero button {
+        margin: 20px auto 0;
+        display: block;
+    }
+
+
+    /* ==== HEADER ==== */
+    header .container {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    nav ul {
+        gap: 12px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    nav button {
+        font-size: 14px;
+        padding: 6px 8px;
+    }
+
+    #lang-switch {
+        padding: 5px 8px;
+        font-size: 14px;
+    }
+
+
+    /* ==== SERVICES ==== */
+    .services-grid {
+        grid-template-columns: 1fr !important;
+        gap: 20px;
+        padding: 0 10px;
+    }
+
+    .service-card {
+        padding: 20px;
+    }
+
+
+    /* ==== GEOGRAPHY ==== */
+    .geo-tags {
+        padding: 0 10px;
+        gap: 10px;
+    }
+
+    .geo-item {
+        font-size: 14px;
+        padding: 8px 14px;
+    }
+
+
+    /* ==== WHY US ==== */
+    .why-grid {
+        grid-template-columns: 1fr !important;
+        gap: 20px;
+        padding: 0 10px;
+    }
+
+
+    /* ==== CONTACT FORM ==== */
+    .contact-wrapper {
+        grid-template-columns: 1fr !important;
+        gap: 20px;
+        padding: 0 10px;
+    }
+
+    .form-row {
+        flex-direction: column;
+        gap: 0;
+    }
+
+    #contacts {
+        padding: 50px 20px;
+    }
+
+    .contact-left {
+        text-align: center;
+    }
+
+    .contact-image {
+        margin: 20px auto 0;
+    }
+
+
+    /* ==== FOOTER ==== */
+    .footer-container {
+        flex-direction: column;
+        text-align: center;
+        gap: 15px;
+    }
+
+    .footer-copy {
+        text-align: center;
+    }
+}
+
+
 
